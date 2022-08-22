@@ -23,6 +23,7 @@ fun main() {
 
     println("Your surname is $surname. right?")
 
+    println("Bye!")
 
 
 }
