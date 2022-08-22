@@ -16,6 +16,10 @@ fun main() {
 
     println("Hello, $name")
 
+    var surname = scanner.next()
+
+    println("Your surname is $surname. right?")
+
 
 
 }
